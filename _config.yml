@@ -21,11 +21,12 @@
 title: Dev Blog
 email: bob@bobrockefeller.com
 description: >- # this means to ignore newlines until "baseurl:"
-  As I work with different web technologies I blog about them here. I'm not a professional developer, I just do it as a hobby.
+  As I work with different web technologies, I blog about them here. I'm not a professional developer; I only do it as a hobby.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ""
 github_username: "bobrocke"
+timezone: America/New_York
 
 # Build settings
 theme: minima
@@ -50,3 +51,19 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+jekyll_compose:
+  default_front_matter:
+    drafts:
+      description:
+      image:
+      category:
+      tags:
+    posts:
+      description:
+      image:
+      category:
+      tags:
+
+paginate: 5
+paginate_path: "/blog/page:num/"
