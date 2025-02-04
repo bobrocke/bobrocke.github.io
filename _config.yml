@@ -29,6 +29,7 @@ github_username: "bobrocke"
 timezone: America/New_York
 
 show_excerpts: true
+excerpt_separator: <!--more-->
 
 # Build settings
 theme: minima
