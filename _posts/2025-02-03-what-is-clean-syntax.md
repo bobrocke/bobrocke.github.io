@@ -10,7 +10,7 @@ date: 2025-02-03 21:20 -0500
 Programmers talk about *clean syntax* say and this or that language or framework has such a property. I've commented that Ruby and Ruby on Rails have this thing, too. So what is it?
 
 I think it means the syntax is easy to read and easy to follow. Further, it has few, if any, delimiters. Delimiters such as `[`, `(`, and `{`. Looking at any JavaScript code shows exactly what I referring to -- nested `[`, `(`, and `{` everywhere!
-
+<!--more-->
 Because I've been working with Laravel and Ruby on Rails lately, I have examples from those.
 
 Both of these code snippets do the same thing -- read the first record from a database.
