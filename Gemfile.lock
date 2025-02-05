@@ -169,7 +169,11 @@ DEPENDENCIES
   jekyll (~> 4.4.1)
   jekyll-compose (~> 0.12)
   jekyll-feed (~> 0.12)
+<<<<<<< HEAD
   minima (~> 2.5)
+=======
+  minima!
+>>>>>>> parent of fcb4cb4 (Fixing gems and dependencies)
   tzinfo (>= 1, < 3)
   tzinfo-data
   wdm (~> 0.1)
