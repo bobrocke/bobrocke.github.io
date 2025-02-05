@@ -15,8 +15,13 @@ gem "minima", github: "jekyll/minima"
 # gem "github-pages", group: :jekyll_plugins
 # If you have any plugins, put them here!
 group :jekyll_plugins do
+<<<<<<< HEAD
   gem 'jekyll-compose', '~> 0.12'
   gem 'jekyll-feed', '~> 0.12'
+=======
+  gem "jekyll-feed", "~> 0.12"
+  gem 'jekyll-compose', "~> 0.12"
+>>>>>>> temp-branch
   gem 'jekyll-paginate'
 end
 
