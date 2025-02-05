@@ -33,9 +33,9 @@ excerpt_separator: <!--more-->
 
 # Build settings
 theme: minima
-# minima:
-#   social_links:
-#     - { platform: instagram, user_url: "https://stackoverflow.com/users/1938118/bob-rockefeller" }
+minima:
+  social_links:
+    - { platform: instagram, user_url: "https://stackoverflow.com/users/1938118/bob-rockefeller" }
 plugins:
   - jekyll-feed
   
