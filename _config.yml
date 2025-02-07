@@ -32,16 +32,19 @@ show_excerpts: true
 excerpt_separator: <!--more-->
 
 # Build settings
-# theme: minima
+theme: minima
 # theme: jekyll-theme-basically-basic
 # https://github.com/mmistakes/jekyll-theme-basically-basic
 # theme: jekyll-theme-horizon-flow
 # https://github.com/papierkorp/jekyll-theme-horizon-flow
-theme: jekyll-theme-so-simple
+# theme: jekyll-theme-so-simple
 # https://github.com/mmistakes/so-simple-theme
+# remote_theme: amitmerchant1990/reverie
+# https://github.com/amitmerchant1990/reverie
 plugins:
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-remote-theme
   
 author: Bob Rockefeller
 rss: RSS
