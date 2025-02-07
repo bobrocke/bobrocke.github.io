@@ -1,0 +1,30 @@
+email:
+  id: bob@bobrockefeller.com'
+  href: 'mailto: bob@bobrockefeller.com'
+  title: 'Email'
+  fa-icon: 'fa-envelope'
+
+github:
+  id: 'bobrocke'
+  href: 'https://github.com/bobrocke'
+  title: 'GitHub'
+  fa-icon: 'fa-github'
+  
+stackoverflow:
+  id: 'bob-rockefeller'
+  href: 'https://stackoverflow.com/users/1938118/bob-rockefeller'
+  title: 'Stack Overflow'
+  fa-icon: 'fa-stack-overflow'
+  
+codepen:
+  id: 'bobrocke'
+  href: 'https://codepen.io/your-work/'
+  title: 'Code Pen'
+  fa-icon: 'fa-codepen'
+  
+gitlab:
+  id: 'bobrocke'
+  href: 'https://gitlab.com/bobrocke'
+  title: 'GitLab'
+  fa-icon: 'fa-gitlab'
+  
