@@ -9,7 +9,7 @@ tags:
 ---
 A simple (I thought) desire to add a Stack Overflow icon and link to this blog's footer sent me off to look for a different, but still uncomplicated theme. Soon I was off in the weeks.
 <!--more-->
-I knew I wanted a theme design with the blog front and center, clear documentation for configuration (preferably via the `_config.yml` file), simple layout (I like single columns), and the ability to show icons and links to developer related social media sights (such as Stack Overflow).
+I knew I wanted a theme design with the blog front and center, clear documentation for configuration (preferably via the `_config.yml` file), simple layout (I like single columns), and the ability to show icons and links to developer related social media sites (such as Stack Overflow).
 
 There are several sites dedicated to lists of available Jekyll themes. Here are the ones I found useful:
 
@@ -19,3 +19,5 @@ There are several sites dedicated to lists of available Jekyll themes. Here are 
 Thinking that all Jekyll themes were distributed as gem files, I was surprised to find many themes were distributed as GitHub repositories that were to be download and built upon by the user. The Jekyll Remote Theme gem allows you to use a theme from its repository without downloading anything -- Clever!
 
 It's notable, and perhaps a little concerning, that almost all the themes I found were old. A fair number were so old that links their GitHub repositories went nowhere.
+
+So what did I end up doing? Exactly what I said I didn't want to just a could of days ago. I downloaded the theme Lanyon and went to work customizing it.
