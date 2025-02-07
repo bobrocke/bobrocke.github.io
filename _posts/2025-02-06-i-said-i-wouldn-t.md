@@ -7,8 +7,8 @@ image:
 category:
 tags:
 ---
-A simple (thought) desire to add a Stack Overflow icon and link to this blog's footer sent me off to look for a different, but still uncomplicated theme. Soon I was off in the weeks.
-
+A simple (I thought) desire to add a Stack Overflow icon and link to this blog's footer sent me off to look for a different, but still uncomplicated theme. Soon I was off in the weeks.
+<!--more-->
 I knew I wanted a theme design with the blog front and center, clear documentation for configuration (preferably via the `_config.yml` file), simple layout (I like single columns), and the ability to show icons and links to developer related social media sights (such as Stack Overflow).
 
 There are several sites dedicated to lists of available Jekyll themes. Here are the ones I found useful:
