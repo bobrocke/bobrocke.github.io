@@ -11,4 +11,4 @@ As much I as like Rails, and hope to continue using it, I don't think the docume
 
 A very cool thing about using Rails is that you don't need all the `includes` and `use` directives as in PHP. Rails just 'knows' where the definitions are for any functions needed.
 
-Rails is strongly opinionated. Something that I'm learning the hard way is that doing things *The Rails Way* may not be the first way I think of, or the way I'm most comfortable, but in the end I have many fewer headaches if I just do. 
+Rails is strongly opinionated. Something that I'm learning the hard way is that doing things *The Rails Way* may not be the first way I think of, or the way I'm most comfortable, but in the end I have many fewer headaches if I just do it that way. 

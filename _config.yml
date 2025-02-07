@@ -23,8 +23,8 @@ email: bob@bobrockefeller.com
 description: >- # this means to ignore newlines until "baseurl:"
   As I work with different web technologies, I blog about them here. I'm not a professional developer; I only do it as a hobby.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ""
+url: "https://dev.bobrockefeller.com/" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: ""
 github_username: "bobrocke"
 timezone: America/New_York
 
@@ -32,10 +32,19 @@ show_excerpts: true
 excerpt_separator: <!--more-->
 
 # Build settings
-theme: minima
+# theme: minima
+# theme: jekyll-theme-basically-basic
+# https://github.com/mmistakes/jekyll-theme-basically-basic
+# theme: jekyll-theme-horizon-flow
+# https://github.com/papierkorp/jekyll-theme-horizon-flow
+theme: jekyll-theme-so-simple
+# https://github.com/mmistakes/so-simple-theme
 plugins:
   - jekyll-feed
   - jekyll-paginate
+  
+author: Bob Rockefeller
+rss: RSS
   
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -70,5 +79,5 @@ jekyll_compose:
       category:
       tags:
 
-paginate: 5
+paginate: 3
 paginate_path: "/blog/page:num/"
