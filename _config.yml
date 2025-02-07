@@ -34,7 +34,7 @@ excerpt_separator: <!--more-->
 # Build settings
 # theme: minima
 
-theme: jekyll-theme-basically-basic
+# theme: jekyll-theme-basically-basic
 # https://github.com/mmistakes/jekyll-theme-basically-basic
 
 # theme: jekyll-theme-horizon-flow
