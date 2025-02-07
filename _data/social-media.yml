@@ -1,11 +1,11 @@
 email:
-  id: bob@bobrockefeller.com'
-  href: 'mailto: bob@bobrockefeller.com'
+  id: bob@bobrockefeller.com
+  href: 'mailto: '
   title: 'Email'
   fa-icon: 'fa-envelope'
 
 github:
-  id: 'bobrocke'
+  id: ''
   href: 'https://github.com/bobrocke'
   title: 'GitHub'
   fa-icon: 'fa-github'
@@ -18,12 +18,12 @@ stackoverflow:
   
 codepen:
   id: 'bobrocke'
-  href: 'https://codepen.io/your-work/'
+  href: 'https://codepen.io/'
   title: 'Code Pen'
   fa-icon: 'fa-codepen'
   
 gitlab:
-  id: 'bobrocke'
+  id: ''
   href: 'https://gitlab.com/bobrocke'
   title: 'GitLab'
   fa-icon: 'fa-gitlab'
