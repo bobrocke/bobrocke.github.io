@@ -60,6 +60,8 @@ gitlab:
 
 Using a data file gives me a place to list the various sites, their icons (from Font Awesome), and a link. Add a bit of CSS styling and it's done.
 
-The good side of downloading the theme's source code into my blog project is that I can easily see how it was created and learn. Yes, you can do that with a gem theme, too, but it's just not as effortless. And making little tweaks to the code is straightforward. For example, I changed the date format from using `{page.date | date_to_string}` to `{page.date | date_to_string: "ordinal", "US"}`.
+The good side of downloading the theme's source code into my blog project is that I can easily see how it was created and learn. Yes, you can do that with a gem theme, too, but it's just not as effortless. And making little tweaks to the code is straightforward.
+
+For example, I changed the date format from using `{page.date | date_to_string}` to `{page.date | date_to_string: "ordinal", "US"}`. But if theme were ever updated, which is very unlikely, it would be a real pain to merge the changes.
 
 In the end, I'm happy. I spent a bunch more time getting this blog setup the way I wanted, but I learned a bit more about Jekyll and how its themes work.
