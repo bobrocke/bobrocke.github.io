@@ -209,7 +209,10 @@ DEPENDENCIES
   jekyll (~> 4.4.1)
   jekyll-compose (~> 0.12)
   jekyll-feed (~> 0.12)
+  jekyll-gist
   jekyll-paginate
+  jekyll-seo-tag
+  jekyll-sitemap
   jekyll-theme-basically-basic
   jekyll-theme-horizon-flow
   jekyll-theme-so-simple
