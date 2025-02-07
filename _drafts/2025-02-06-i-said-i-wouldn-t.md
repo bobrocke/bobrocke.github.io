@@ -13,8 +13,8 @@ I knew I wanted a theme design with the blog front and center, clear documentati
 
 There are several sites dedicated to lists of available Jekyll themes. Here are the ones I found useful:
 
-[Jekyll Themes](http://jekyllthemes.org/)
-[Best Jekyll Themes](https://www.bestjekyllthemes.com/)
+- [Jekyll Themes](http://jekyllthemes.org/)
+- [Best Jekyll Themes](https://www.bestjekyllthemes.com/)
 
 Thinking that all Jekyll themes were distributed as gem files, I was surprised to find many themes were distributed as GitHub repositories that were to be download and built upon by the user. The Jekyll Remote Theme gem allows you to use a theme from its repository without downloading anything -- Clever!
 
