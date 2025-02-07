@@ -5,14 +5,14 @@ email:
   fa-icon: 'fa-envelope'
 
 github:
-  id: ''
-  href: 'https://github.com/bobrocke'
+  id: 'bobrocke'
+  href: 'https://github.com/'
   title: 'GitHub'
   fa-icon: 'fa-github'
   
 stackoverflow:
   id: 'bob-rockefeller'
-  href: 'https://stackoverflow.com/users/1938118/bob-rockefeller'
+  href: 'https://stackoverflow.com/users/1938118/'
   title: 'Stack Overflow'
   fa-icon: 'fa-stack-overflow'
   
@@ -23,8 +23,8 @@ codepen:
   fa-icon: 'fa-codepen'
   
 gitlab:
-  id: ''
-  href: 'https://gitlab.com/bobrocke'
+  id: 'bobrocke'
+  href: 'https://gitlab.com/'
   title: 'GitLab'
   fa-icon: 'fa-gitlab'
   

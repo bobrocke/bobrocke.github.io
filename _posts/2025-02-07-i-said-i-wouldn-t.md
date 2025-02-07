@@ -24,7 +24,39 @@ It's notable, and perhaps a little concerning, that almost all the themes I foun
 
 So what did I end up doing? Exactly what I said I didn't want to just a couple of days ago. I downloaded the Lanyon theme from GitHub and went to work customizing it. It is a wonderful theme created by a real web developer (he also created Bootstrap!) and you can tell. My customizations were small and, fortunately, didn't detract from Mark Ott's work.
 
-The biggest thing I did was to add the code necessary to put social media icons and links in Lanyon's sidebar. The key to that was [Jessica Reel's post](https://jreel.github.io/social-media-icons-on-jekyll/) from 2017. Here's the central idea is to create a data file and then an `.erb` fragment to loop over that data and format it.
+The biggest thing I did was to add the code necessary to put social media icons and links in Lanyon's sidebar. The key to that was [Jessica Reel's post](https://jreel.github.io/social-media-icons-on-jekyll/) from 2017. The central idea is to create a data file and then an `.erb` fragment to loop over that data and format it. Here's the data file:
+
+```yaml
+email:
+  id: bob@bobrockefeller.com
+  href: 'mailto: '
+  title: 'Email'
+  fa-icon: 'fa-envelope'
+
+github:
+  id: 'bobrocke'
+  href: 'https://github.com/'
+  title: 'GitHub'
+  fa-icon: 'fa-github'
+  
+stackoverflow:
+  id: 'bob-rockefeller'
+  href: 'https://stackoverflow.com/users/1938118/'
+  title: 'Stack Overflow'
+  fa-icon: 'fa-stack-overflow'
+  
+codepen:
+  id: 'bobrocke'
+  href: 'https://codepen.io/'
+  title: 'Code Pen'
+  fa-icon: 'fa-codepen'
+  
+gitlab:
+  id: 'bobrocke'
+  href: 'https://gitlab.com/'
+  title: 'GitLab'
+  fa-icon: 'fa-gitlab'
+```
 
 Using a data file gives me a place to list the various sites, their icons (from Font Awesome), and a link. Add a bit of CSS styling and it's done.
 
