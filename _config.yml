@@ -21,7 +21,7 @@
 title: Dev Blog
 email: bob@bobrockefeller.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I'm Bob Rockefeller. I learn web develpment stuff and write about it.
+  I'm Bob Rockefeller. I learn web develpment stuff -- I post stuff. But I'm not a professional developer.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dev.bobrockefeller.com/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: ""

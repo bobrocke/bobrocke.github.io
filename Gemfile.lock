@@ -5,6 +5,7 @@ GEM
       public_suffix (>= 2.0.2, < 7.0)
     base64 (0.2.0)
     bigdecimal (3.1.9)
+    coderay (1.1.3)
     colorator (1.1.0)
     concurrent-ruby (1.3.5)
     csv (3.3.2)
@@ -102,6 +103,9 @@ GEM
     kramdown (2.5.1)
       rexml (>= 3.3.9)
     kramdown-parser-gfm (1.1.0)
+      kramdown (~> 2.0)
+    kramdown-syntax-coderay (1.0.1)
+      coderay (~> 1.1)
       kramdown (~> 2.0)
     liquid (4.0.4)
     listen (3.9.0)
@@ -209,6 +213,7 @@ DEPENDENCIES
   jekyll-sitemap
   jekyll-theme-horizon-flow
   jekyll-theme-so-simple
+  kramdown-syntax-coderay (~> 1.0)
   minima (~> 2.5)
   tzinfo (>= 1, < 3)
   tzinfo-data
