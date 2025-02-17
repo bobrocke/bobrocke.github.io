@@ -7,7 +7,7 @@ category:
 tags:
 date: 2025-02-03 21:20 -0500
 ---
-Programmers talk about *clean syntax* and say and this or that language or framework has such a property. I've commented that Ruby and Ruby on Rails have this thing, too. So what is it?
+Programmers talk about *clean syntax* and say and this or that language or framework has such a property. I've noted that Ruby and Ruby on Rails have this thing, too. So what is it?
 <!--more-->
 I think it means the syntax is easy to read and easy to follow. Further, it has few, if any, delimiters. Delimiters such as `[`, `(`, and `{`. Looking at any JavaScript code shows exactly what I referring to -- nested `[`, `(`, and `{` everywhere!
 
@@ -45,7 +45,7 @@ Rails:
 get "colors", to: "colors#colors"
 ```
 
-Here, Rails 'knows' the definition is in the `routes.rb` file, so must be a route definition. And it 'knows' there's controller `colors` with a method `colors`.
+Here, Rails 'knows' the definition is in the `routes.rb` file, so must be a route definition. And it 'knows' there's a controller `colors` with a method `colors`.
 
 So combining Rails *convention over configuration* with Ruby's simple syntax results in less code that is easier to read. The downside is that you must understand Rails' conventions.
 
