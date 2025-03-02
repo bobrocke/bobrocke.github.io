@@ -1,13 +1,13 @@
 ---
 layout: post
-title: I Said I Wouldn't ...
+title: I Changed Themes
 date: 2025-02-07 10:09 -0500
 description:
 image:
 category:
 tags:
 ---
-A simple (I thought) desire to add a Stack Overflow icon, and link to my account there, in this blog's footer sent me looking for a different, but still uncomplicated theme. Soon, I was off in the weeks.
+A simple (I thought) desire to add a Stack Overflow icon, and link to my account there, in this blog's footer sent me looking for a different, but still uncomplicated theme. Soon, I was off in the weeks. And I said I wouldn't...
 <!--more-->
 
 I knew I wanted a theme design with the blog front and center, clear documentation for configuration (preferably made via the `_config.yml` file), simple layout (I like single columns), and the ability to show icons and links to developer related social media sites (such as Stack Overflow or GitHub).
